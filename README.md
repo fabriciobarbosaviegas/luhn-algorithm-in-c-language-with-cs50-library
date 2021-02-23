@@ -21,4 +21,8 @@
 
 <p>Originally this code was written as part of a problem set of harvard's cs50 this library aims to simplify the study of c language for programmers beginning in the language but this does not influence the final result.</p>
 
+<h2>Limitations?</h2>
+
+<p>The code has a limitation, it only recognizes Mastercard, Visa and Amex cards.</p>
+
 <h2>That said see the code!</h2>
